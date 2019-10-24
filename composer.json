@@ -1,0 +1,20 @@
+{
+	"name": "jianyan74/yii2-adminlet",
+	"description": "adminlet",
+	"keywords": ["adminlet", "html", "admin", "jianyan74"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "jianyan74"
+		}
+	],
+	"type": "yii2-extension",
+	"require": {
+		"yiisoft/yii2": "~2.0.6"
+	},
+	"autoload": {
+		"psr-4": {
+			"jianyan\\adminlet\\": "./src"
+		}
+	}
+}
